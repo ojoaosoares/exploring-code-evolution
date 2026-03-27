@@ -81,9 +81,9 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/yt-dlp/yt-dlp
+2. Gráfico selecionado: <img width="728" height="407" alt="image" src="https://github.com/user-attachments/assets/6e4f8cc3-8990-4164-86c3-b37f18e0cc2d" />
+3. Explicação:No gráfico @dataclass, ocorre uma evolução silenciosa e discreta. O yt-dlp nasceu de um fork do falecido youtube-dl, que prezava por sua compatibilidade com as versões antigas do Python, chegando a suportar até a versão 2.6. Essa tendência foi transmitida até para o yt-dlp, que até 2023 não utilizava nenhum decorator @dataclass; mas isso mudou em 2024, onde os primeiros usos foram listados, o que mostra que o projeto deixou as amarras passadas e está partindo para a modernidade, mas que consequentemente não suportará versões antigas como seu predecessor.
 
 
 
